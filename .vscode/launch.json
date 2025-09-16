@@ -1,0 +1,574 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RetoJuegoDeAdivinanzas",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.MenuIterativoYRetos.RetoJuegoDeAdivinanzas",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoCreacionValidacionContrasena",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.MenuIterativoYRetos.RetoCreacionValidacionContrasena",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "NumerosInversosDoWhile",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.CicloWhile_Do.NumerosInversosDoWhile",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.Main3",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoCalculadora",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.MenuIterativoYRetos.RetoCalculadora",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoCajeroAutomaticoP2",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.MenuIterativoYRetos.RetoCajeroAutomaticoP2",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "Prueba",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.MenuIterativoYRetos.Prueba",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoCajeroAutomatico",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.MenuIterativoYRetos.RetoCajeroAutomatico",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "MenuIterativo",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.MenuIterativoYRetos.MenuIterativo",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioAcumuladorSumaWhileUdemy",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.CiclosFor.EjercicioAcumuladorSumaWhileUdemy",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoNumerosParesCicloFor",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.CiclosFor.RetoNumerosParesCicloFor",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "EjemploCicloForUdemy",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.CiclosFor.EjemploCicloForUdemy",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoNumerosImparesWhile",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.RetoNumerosImparesWhile",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "NumerosInversosDoWhile",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.NumerosInversosDoWhile",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "CiclosDoWhile",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.CiclosDoWhile",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "NumerosParesWhile",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.NumerosParesWhile",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "CicloWhileEjemploUdemy",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.CicloWhileEjemploUdemy",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "BucleWhile",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.BucleWhile",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoSistemaDeAutenticacion",
+            "request": "launch",
+            "mainClass": "RetoPosteriorSwitchIfElse.RetoSistemaDeAutenticacion",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoSistemaDeEnvios",
+            "request": "launch",
+            "mainClass": "RetoPosteriorSwitchIfElse.RetoSistemaDeEnvios",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "SistemaDeCalificaciones",
+            "request": "launch",
+            "mainClass": "RetoPosteriorSwitchIfElse.SistemaDeCalificaciones",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoEstacionDelAnoSwitch",
+            "request": "launch",
+            "mainClass": "SentenciaSwitch.RetoEstacionDelAnoSwitch",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "SintaxisMejoradaSwitchDiaSemana",
+            "request": "launch",
+            "mainClass": "SentenciaSwitch.SintaxisMejoradaSwitchDiaSemana",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "DiaSemanaSwitch",
+            "request": "launch",
+            "mainClass": "SentenciaSwitch.DiaSemanaSwitch",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoEstacionDelAno",
+            "request": "launch",
+            "mainClass": "SentenciasDeDecisionYPosterior.OperadorTernario.RetoEstacionDelAno",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.Main2",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoElMayorDeDosNumeros",
+            "request": "launch",
+            "mainClass": "OperadorTernario.RetoElMayorDeDosNumeros",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "TraumaTernarioPrueba",
+            "request": "launch",
+            "mainClass": "SentenciasDeDecisionYPosterior.TraumaTernarioPrueba",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoSistemaReservaHotelDespuesDeRevisiones",
+            "request": "launch",
+            "mainClass": "OperadorTernario.RetoSistemaReservaHotelDespuesDeRevisiones",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoSistemaReservaHotel",
+            "request": "launch",
+            "mainClass": "OperadorTernario.RetoSistemaReservaHotel",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "AplicacionSaludFitness",
+            "request": "launch",
+            "mainClass": "OperadorTernario.AplicacionSaludFitness",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "OperadorTernario",
+            "request": "launch",
+            "mainClass": "OperadorTernario.OperadorTernario",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "CasaEspejos",
+            "request": "launch",
+            "mainClass": "SentenciasDeDecisionYPosterior.CasaEspejos",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "SistemaBancario",
+            "request": "launch",
+            "mainClass": "SentenciasDeDecisionYPosterior.SistemaBancario",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "TiendaEnLineaVersionUdemy",
+            "request": "launch",
+            "mainClass": "SentenciasDeDecisionYPosterior.TiendaEnLineaVersionUdemy",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "TiendaEnLinea",
+            "request": "launch",
+            "mainClass": "SentenciasDeDecisionYPosterior.TiendaEnLinea",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "ValorPositivoIf",
+            "request": "launch",
+            "mainClass": "SentenciasDeDecisionYPosterior.ValorPositivoIf",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ClaseScanner",
+            "request": "launch",
+            "mainClass": "Ejercicios_ScannerYPosterior.ClaseScanner",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "DetallesClaseScannerBuffer",
+            "request": "launch",
+            "mainClass": "Ejercicios_ScannerYPosterior.DetallesClaseScannerBuffer",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "FormatearCadenas",
+            "request": "launch",
+            "mainClass": "Ejercicios_ScannerYPosterior.FormatearCadenas",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "FormateoCadenaMultilinea",
+            "request": "launch",
+            "mainClass": "Ejercicios_ScannerYPosterior.FormateoCadenaMultilinea",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "GenerarNumeroAleatorio",
+            "request": "launch",
+            "mainClass": "Ejercicios_ScannerYPosterior.GenerarNumeroAleatorio",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "Ejercicios_ScannerYPosterior.NumerosAleatorios",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoRecetasCocina",
+            "request": "launch",
+            "mainClass": "Ejercicios_ScannerYPosterior.RetoRecetasCocina",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "SistemaEmpleados",
+            "request": "launch",
+            "mainClass": "Ejercicios_ScannerYPosterior.SistemaEmpleados",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "SistemaIdUnico",
+            "request": "launch",
+            "mainClass": "Ejercicios_ScannerYPosterior.SistemaIdUnico",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "AreaRectanguloConMetodo",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.AreaRectanguloConMetodo",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "BusquedaIndiceSubcadenas",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.BusquedaIndiceSubcadenas",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "CalculoNombresFamiliaDosMetodos",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.CalculoNombresFamiliaDosMetodos",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "CaracteresEspeciales",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.CaracteresEspeciales",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "ClaseScanner(1)",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.ClaseScanner",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "ComparacionDeCadenas",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.ComparacionDeCadenas",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "ConteoArgumentosLenght",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.ConteoArgumentosLenght",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "ConteoNombresFamiliaMetodo",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.ConteoNombresFamiliaMetodo",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "DetalleReservaHoteles",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.DetalleReservaHoteles",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio01_01",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.Ejercicio01_01",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1Libro",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.Ejercicio1Libro",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "FormasConcadenarCadenas",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.FormasConcadenarCadenas",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "GeneradorEmail",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.GeneradorEmail",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "InmutabilidadDeCadenas",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.InmutabilidadDeCadenas",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.Main",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "ManejoIndiceDeCadenas",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.ManejoIndiceDeCadenas",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "ManejoSubcadenas",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.ManejoSubcadenas",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "ReemplazoSubcadenas",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.ReemplazoSubcadenas",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "GeneracionTicketVenta",
+            "request": "launch",
+            "mainClass": "Operadores_Java.GeneracionTicketVenta",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAsignacion",
+            "request": "launch",
+            "mainClass": "Operadores_Java.OperadoresAsignacion",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresComparacion",
+            "request": "launch",
+            "mainClass": "Operadores_Java.OperadoresComparacion",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogico",
+            "request": "launch",
+            "mainClass": "Operadores_Java.OperadoresLogico",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "Operadores_Unarios",
+            "request": "launch",
+            "mainClass": "Operadores_Java.Operadores_Unarios",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "Operadores_aritmeticos",
+            "request": "launch",
+            "mainClass": "Operadores_Java.Operadores_aritmeticos",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "PrecedenciaOperadores",
+            "request": "launch",
+            "mainClass": "Operadores_Java.PrecedenciaOperadores",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoCalculoAreaYPerimetroRectangulo",
+            "request": "launch",
+            "mainClass": "Operadores_Java.RetoCalculoAreaYPerimetroRectangulo",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "RetoSistemaAutenticacionUsuario",
+            "request": "launch",
+            "mainClass": "Operadores_Java.RetoSistemaAutenticacionUsuario",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "SistemaDescuentosVip",
+            "request": "launch",
+            "mainClass": "Operadores_Java.SistemaDescuentosVip",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "SistemaPrestamoLibros",
+            "request": "launch",
+            "mainClass": "Operadores_Java.SistemaPrestamoLibros",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "ValorFueraRango",
+            "request": "launch",
+            "mainClass": "Operadores_Java.ValorFueraRango",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "ValorRango",
+            "request": "launch",
+            "mainClass": "Operadores_Java.ValorRango",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "If_else",
+            "request": "launch",
+            "mainClass": "SentenciasDeDecisionYPosterior.If_else",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "If_else_if_else",
+            "request": "launch",
+            "mainClass": "SentenciasDeDecisionYPosterior.If_else_if_else",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        },
+        {
+            "type": "java",
+            "name": "Udemy_If",
+            "request": "launch",
+            "mainClass": "SentenciasDeDecisionYPosterior.Udemy_If",
+            "projectName": "Ejemplos Udemy_10fd6612"
+        }
+    ]
+}
