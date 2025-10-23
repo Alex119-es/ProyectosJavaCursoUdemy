@@ -1,6 +1,6 @@
-package CiclosEnJava.MenuIterativoYRetos;
 import java.util.*;
-public class RetoJuegoDeAdivinanzas {
+package CiclosEnJava.MenuIterativoYRetos
+public class RetoAdivinanza {
     static Random aleatorizador = new Random();
     static Scanner teclado = new Scanner(System.in);
 
@@ -13,14 +13,14 @@ public class RetoJuegoDeAdivinanzas {
 
         var numeroAAdivinar = 0;
 
-        while (!sistemaAdivinanza && intentos < INTENTOS_MAXIMOS) {
+        while (!sistemaAdivinanza || intentos < INTENTOS_MAXIMOS) {
 
             System.out.println("Di un numero entre el 1 al 50 (tienes 10 intentos)");
             numeroAAdivinar = Integer.valueOf(teclado.nextLine());
             intentos++;
-            if (numeroAAdivinar < numeroAleatorio) {
+            if (numeroAAdivinar < numeroAleatorio&&numeroAAdivinar>0) {
                 System.out.println("El numero es incorrecto pero se encuentra mas arriba del numero ingresado");
-            } else if (numeroAAdivinar > numeroAleatorio) {
+            } else if (numeroAAdivinar > numeroAleatorio&&numeroAAdivinar<50) {
                 System.out.println("El numero es incorrecto pero se encuentra por debajo del numero ingresado");
             } else if (numeroAAdivinar > 50 || numeroAAdivinar <= 0) {
                 System.out.println("cero o numero negativo,numero mayor que 50 porfavor volver a intentar ");

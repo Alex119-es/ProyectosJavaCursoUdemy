@@ -11,8 +11,8 @@ public class RetoElMayorDeDosNumeros {
         System.out.println("Diga segundo numero");
         var numero2 = Integer.valueOf(teclado.nextLine());
 
-        var comparacionNumeros = ((numero1 > numero2 ? numero1 + " es mayor que " + numero2
-                : (numero1 == numero2) ? "son iguales" : numero2 + "es mayor que " + numero1));
+        var comparacionNumeros = ((numero1 > numero2) ? numero1 + " es mayor que " + numero2
+                : (numero1 == numero2) ? "son iguales" : numero2 + "es mayor que " + numero1);
         System.out.println(comparacionNumeros);
         /*******************************************************************************************
          * **********************************************************************************
