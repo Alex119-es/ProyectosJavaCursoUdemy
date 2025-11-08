@@ -27,6 +27,4 @@ segundoArreglo[0]=2;
 
         }
 }
-=======
-// El código del repositorio remoto estará aquí
->>>>>>> origin/main
+

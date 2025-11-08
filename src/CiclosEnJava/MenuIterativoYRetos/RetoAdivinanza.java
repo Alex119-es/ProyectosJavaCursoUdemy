@@ -1,5 +1,5 @@
+package CiclosEnJava.MenuIterativoYRetos;
 import java.util.*;
-package CiclosEnJava.MenuIterativoYRetos
 public class RetoAdivinanza {
     static Random aleatorizador = new Random();
     static Scanner teclado = new Scanner(System.in);
