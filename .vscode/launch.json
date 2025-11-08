@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SintaxisSimplificada",
+            "request": "launch",
+            "mainClass": "ArreglosEnJava.SintaxisSimplificada",
+            "projectName": "ProyectosJavaCursoUdemy_48529a97"
+        },
+        {
+            "type": "java",
+            "name": "ManejoIndiceDeCadenas",
+            "request": "launch",
+            "mainClass": "Ejercicios_iniciales.ManejoIndiceDeCadenas",
+            "projectName": "ProyectosJavaCursoUdemy_48529a97"
+        },
+        {
+            "type": "java",
             "name": "RetoJuegoDeAdivinanzas",
             "request": "launch",
             "mainClass": "CiclosEnJava.MenuIterativoYRetos.RetoJuegoDeAdivinanzas",
