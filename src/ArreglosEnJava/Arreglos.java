@@ -1,6 +1,7 @@
 package ArreglosEnJava;
-
+import java.util.*;
 public class Arreglos {
+static Scanner teclado =new Scanner(System.in);/*Introducimos registro consola para añadir los valores dentro de un arreglo */
 
     public static void main(String[] args) {
 /*Arreglos
@@ -22,8 +23,25 @@ segundoArreglo[0]=2;
          * nombreDelArreglo[posicion]=valor;
          */
 
+/************************************INTRODUCIR VALORES A UN ARREGLO ***********************************************/
+System.out.println("Proporciona el largo del arreglo:");
+int largoDelArreglo=Integer.valueOf(teclado.nextLine());
 
+// Creamos de manera dinamica el arreglo.. Dato:pueden cualquier tipo pero por ahora trabajamos con int o enteros
+int [] ArregloConsola=new int[largoDelArreglo];
 
+// Solicitar los valores del arreglo
+
+for (int i = 0; i < ArregloConsola.length; i++) {
+        System.out.println("Proporciona enteros[ "+i+" ]=");
+
+ArregloConsola[i]=Integer.valueOf(teclado.nextLine());
+}
+// Imprimir los valores del arreglo
+
+for (int i = 0; i < ArregloConsola.length; i++) {
+        System.out.println("Valor "+i+" : "+ArregloConsola[i]);
+}
 
         }
 }

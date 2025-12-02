@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeterminarMatrices",
+            "request": "launch",
+            "mainClass": "Matrices.DeterminarMatrices",
+            "projectName": "ProyectosJavaCursoUdemy_48529a97"
+        },
+        {
+            "type": "java",
+            "name": "RetoPromedioCalificaciones",
+            "request": "launch",
+            "mainClass": "ArreglosEnJava.RetoPromedioCalificaciones",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
+            "name": "Arreglos",
+            "request": "launch",
+            "mainClass": "ArreglosEnJava.Arreglos",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
+            "name": "IterarUnArreglo",
+            "request": "launch",
+            "mainClass": "ArreglosEnJava.IterarUnArreglo",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
             "name": "SintaxisSimplificada",
             "request": "launch",
             "mainClass": "ArreglosEnJava.SintaxisSimplificada",
