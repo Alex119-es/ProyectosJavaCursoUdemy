@@ -9,6 +9,13 @@
             "name": "RetoSumaDiagonalMatriz",
             "request": "launch",
             "mainClass": "Matrices.RetoSumaDiagonalMatriz",
+            "projectName": "ProyectosJavaCursoUdemy_48529a97"
+        },
+        {
+            "type": "java",
+            "name": "RetoSumaDiagonalMatriz",
+            "request": "launch",
+            "mainClass": "Matrices.RetoSumaDiagonalMatriz",
             "projectName": "ProyectosJavaCursoUdemy_27ade24"
         },
         {
