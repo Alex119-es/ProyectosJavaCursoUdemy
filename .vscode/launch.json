@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RetoSumaDiagonalMatriz",
+            "request": "launch",
+            "mainClass": "Matrices.RetoSumaDiagonalMatriz",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
             "name": "DeterminarMatrices",
             "request": "launch",
             "mainClass": "Matrices.DeterminarMatrices",
