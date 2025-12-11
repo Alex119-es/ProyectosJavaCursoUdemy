@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Persona",
+            "request": "launch",
+            "mainClass": "OrientacionAObjetosPOO.Persona",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
+            "name": "FuncionesRecursivas",
+            "request": "launch",
+            "mainClass": "Funciones.FuncionesRecursivas",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
+            "name": "FuncionPar",
+            "request": "launch",
+            "mainClass": "Funciones.FuncionPar",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
+            "name": "FuncionSumar",
+            "request": "launch",
+            "mainClass": "Funciones.FuncionSumar",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
+            "name": "Funciones",
+            "request": "launch",
+            "mainClass": "Funciones.Funciones",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
+            "name": "NumerosParesWhile",
+            "request": "launch",
+            "mainClass": "CiclosEnJava.CicloWhile_Do.NumerosParesWhile",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
             "name": "RetoSumaDiagonalMatriz",
             "request": "launch",
             "mainClass": "Matrices.RetoSumaDiagonalMatriz",

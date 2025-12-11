@@ -40,8 +40,8 @@ for (int k = 0; k < matrizSumaDiagonal.length; k++) {
     for (int l = 0; l < matrizSumaDiagonal[k].length; l++) {
         
 System.out.println("\n Muestra de los valores dentro de la matriz :\n ["+k+"] ["+l+"] :"+matrizSumaDiagonal[k][l]);
-if (k+l==matrizSumaDiagonal[0].length-1) /*el [0]puede ser [k] tambien por si acaso para que lea columnas en vez de fila
-pero para la maquina o compilacion es menos optimizable*/{
+if (k+l==matrizSumaDiagonal/*este puto cuadro*/[0]/*carrea todo */.length-1) /*el [0]puede ser [k] tambien por si acaso
+ para que lea columnas en vez de fila pero para la maquina o compilacion es menos optimizable*/{
 
 sumaDiagonalContralado+=matrizSumaDiagonal[k][l];
 
