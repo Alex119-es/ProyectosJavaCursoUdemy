@@ -6,7 +6,8 @@ Las funciones las relacionaremos con la palabra static el cual sera una instanci
 */
 public class Funciones {
 
-static void/*No regresa ningun tipo de informacion osea no hay return */saludaDesdeJava(/*Informacion que va a recibir nuestra informacion/Parametro */String mensaje)
+static void/*No regresa ningun tipo de informacion osea no hay return */saludaDesdeJava(/*Informacion que va a recibir nuestra informacion/Parametro
+     */String mensaje)
 {
     System.out.println("Mensaje: "+mensaje);
 

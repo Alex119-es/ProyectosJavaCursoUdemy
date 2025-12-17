@@ -8,11 +8,12 @@ es una obstraccion
 en este caso haremos el ejemplo generico de la clase Persona con atributos y metodos como agregar o mostrar
 las clases todas las iniciales con mayuscula*/
 String nombre;
-String apellido;/*Valor por default null */
+String apellido;/*Valor por default null no podemos usar var ya que aunque asignemos null var no lo considera*/
 // String email;
 // int celular;
 void mostrarPersona(){
     // var variableLocal="Valor1";
+    /*esto solo existe dentro del conjunto de funcion no dentro de la clase */
     // System.out.println("variableLocal"+variableLocal);
 System.out.println("Nombre :"+nombre);
 System.out.println("Apellido :"+apellido);

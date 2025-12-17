@@ -26,7 +26,8 @@ public class FuncionPar {
        int numero=Integer.parseInt(new Scanner(System.in).nextLine()); 
     //    int numero=Integer.valueOf(teclado.nextLine()); 
     System.out.println("Numero par?: "+verificarPar(numero)
-        /*Ojo aqui usa la variable numero como argumento pero no usa desde la funcion es decir que cada uno solo se basa dentro de su bloque de codigo */);
+        /*Ojo aqui usa la variable numero como argumento pero no usa desde la funcion es decir que cada uno solo se basa dentro de su bloque de 
+    codigo */);
 
 }
 }

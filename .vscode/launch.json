@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aritmetica",
+            "request": "launch",
+            "mainClass": "OrientacionAObjetosPOO.Aritmetica",
+            "projectName": "ProyectosJavaCursoUdemy_48529a97"
+        },
+        {
+            "type": "java",
+            "name": "Persona2Limpio",
+            "request": "launch",
+            "mainClass": "OrientacionAObjetosPOO.Persona2Limpio",
+            "projectName": "ProyectosJavaCursoUdemy_48529a97"
+        },
+        {
+            "type": "java",
+            "name": "Funciones",
+            "request": "launch",
+            "mainClass": "Funciones.Funciones",
+            "projectName": "ProyectosJavaCursoUdemy_48529a97"
+        },
+        {
+            "type": "java",
             "name": "Persona",
             "request": "launch",
             "mainClass": "OrientacionAObjetosPOO.Persona",
