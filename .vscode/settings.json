@@ -16,7 +16,32 @@
         "titleBar.activeBackground": "#000000",
         "titleBar.activeForeground": "#e7e7e7",
         "titleBar.inactiveBackground": "#00000099",
-        "titleBar.inactiveForeground": "#e7e7e799"
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "editorGhostText.foreground": "#00000000",
+        "editorGhostText.background": "#00000000"
     },
-    "peacock.color": "#000000"
+    "peacock.color": "#000000",
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggest.showSnippets": true,
+    "editor.suggest.showWords": true,
+    "editor.suggest.showKeywords": true,
+    "qodo.enable": false,
+    "codium.enable": false,
+    "codium.enabled": false,
+    "codium.inlineSuggestion.enable": false,
+    "tabnine.experimentalAutoImports": false,
+    "tabnine.inlineSuggest.enabled": false,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "github.copilot.editor.enableAutoCompletions": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
 }

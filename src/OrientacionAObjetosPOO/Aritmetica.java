@@ -1,7 +1,7 @@
 package OrientacionAObjetosPOO;
 
 public class Aritmetica {
-
+/* */
 int operando1;
 int operando2;
 void sumar(){
