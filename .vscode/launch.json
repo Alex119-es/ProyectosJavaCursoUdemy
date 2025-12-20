@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OperadorThis",
+            "request": "launch",
+            "mainClass": "OrientacionAObjetosPOO.PosConstructor.OperadorThis",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
             "name": "Constructores",
             "request": "launch",
             "mainClass": "OrientacionAObjetosPOO.Constructores",
