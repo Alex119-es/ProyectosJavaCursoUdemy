@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PruebaAritmetica",
+            "request": "launch",
+            "mainClass": "OrientacionAObjetosPOO.paquetes_en_java.aritmetica.prueba.PruebaAritmetica",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
             "name": "OperadorThis",
             "request": "launch",
             "mainClass": "OrientacionAObjetosPOO.PosConstructor.OperadorThis",
