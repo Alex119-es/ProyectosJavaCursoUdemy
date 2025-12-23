@@ -7,8 +7,8 @@ public class Aritmetica {
      * Sin 'public', tendrían visibilidad de paquete (default) y solo serían accesibles
      * desde clases dentro del mismo paquete 'aritmetica'.
      */
-    public int operando1;
-    public int operando2;
+    private int operando1;
+    private int operando2;
     /*lo mismo con las funciones cuando no son publicas solo pueden acceder otras clases DENTRO DEL MISMO PAQUETE*/
     public void sumar(){
         var resultado=operando1+operando2;
@@ -27,6 +27,18 @@ public class Aritmetica {
     }
      public Aritmetica(){
 
+    }
+    public int getOperando1(){
+        return operando1;
+    }
+        public void setOperando1(int operando1) {
+        this.operando1 = operando1;
+    }
+        public int getOperando2() {
+        return operando2;
+    }
+    public void setOperando2(int operando2) {
+        this.operando2 = operando2;
     }
         public static void main(String[] args) {
      System.out.println("Ejemplo Aritmetica");
