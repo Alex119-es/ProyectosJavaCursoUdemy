@@ -1,4 +1,4 @@
-package Herencia.animales.sobreescritura;
+package Herencia.animales.sobreescritura.palabrasuperpadre;
 
 public class Animal2 {
 /*para utilizar este concepto en primer lugar necsitamos una clase conocida como clase padre o superclase utilicemos un ejemplo como la clase Animal2 el cual tendra
@@ -25,6 +25,8 @@ class Perro extends Animal2{
 @Override
 protected void dormir(){
 System.out.println("Suelo dormir 15 horas al dia");
+System.out.println("Metodo clase padre:");
+super.dormir();
 }
 }
 
@@ -43,6 +45,8 @@ var instaciaPerro1=new Perro();/*recuerda si no hay constructor solo hay por def
 instaciaPerro1.comer();
 instaciaPerro1.hacerSonido();
 instaciaPerro1.dormir();
+/*AHORA QUE PASARIA SI DESPUES DE SOBREESCRIBIR LOS METODOS USAMOS O QUEREMOS USAR EL METODO DE LA CLASE PADRE?:puedes usar la palabra especial llamada "super" que hace referencia 
+al metodo padre de esa subclase */
 
 /*Resumen:herencia es que cuando una clase tiene atributos protegidos otras clases pueden usar los metodos de esa clase con la palabra extends ya que heredan los metodos de esa clase
 haciendo una limitacion de que solo esa clase pueda usarla sino no  */

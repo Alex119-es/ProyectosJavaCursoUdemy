@@ -8,6 +8,13 @@
             "type": "java",
             "name": "PruebaAnimal",
             "request": "launch",
+            "mainClass": "Herencia.animales.sobreescritura.palabrasuperpadre.PruebaAnimal",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
+            "name": "PruebaAnimal",
+            "request": "launch",
             "mainClass": "Herencia.animales.sobreescritura.PruebaAnimal",
             "projectName": "ProyectosJavaCursoUdemy_27ade24"
         },
