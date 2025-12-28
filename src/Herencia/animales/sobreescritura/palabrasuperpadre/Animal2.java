@@ -26,7 +26,7 @@ class Perro extends Animal2{
 protected void dormir(){
 System.out.println("Suelo dormir 15 horas al dia");
 System.out.println("Metodo clase padre:");
-super.dormir();
+super.dormir();/*Con esto usamos la funcion de la clase padre a la vez que llamamos el metodo o funcion de la clase Perro llamada dormir  */
 }
 }
 
