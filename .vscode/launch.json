@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PruebaPersonaSinapsis",
+            "request": "launch",
+            "mainClass": "Clase_object.PruebaPersonaSinapsis",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
             "name": "PruebaAnimal",
             "request": "launch",
             "mainClass": "Herencia.animales.sobreescritura.palabrasuperpadre.polimorfismo.PruebaAnimal",
