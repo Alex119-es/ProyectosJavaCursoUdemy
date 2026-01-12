@@ -1,7 +1,7 @@
 package Contexto_Estatico;
 /*Volvemos a clonar la estructura de la calse Persona */
 public class Persona {
-    static int contadorPersonasCreadas=0;
+   private static int contadorPersonasCreadas=0;
     private int idPersona;
     // si este valor no fuese estatico se asociaria en si misma solo con la creacion del objeto y siempre saldria uno mas nunca incrementaria mas alla de eso, porque la variable 
     // ESTA ASOCIADA CON LA CLASE EN SI MISMA;NO CON LOS OBJETOS
@@ -48,7 +48,9 @@ public void setNombre(String nombre){
 this.nombre=nombre;
 }
 
-
+public static int getContadorPersonas(){
+    return Persona.contadorPersonasCreadas;
+}
 
 }
 

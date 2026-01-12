@@ -9,6 +9,13 @@
             "name": "PruebaPersona",
             "request": "launch",
             "mainClass": "Contexto_Estatico.PruebaPersona",
+            "projectName": "ProyectosJavaCursoUdemy_48529a97"
+        },
+        {
+            "type": "java",
+            "name": "PruebaPersona",
+            "request": "launch",
+            "mainClass": "Contexto_Estatico.PruebaPersona",
             "projectName": "ProyectosJavaCursoUdemy_27ade24"
         },
         {
