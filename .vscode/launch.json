@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PruebaVentas",
+            "request": "launch",
+            "mainClass": "RetoSistemaVentas.ventas.PruebaVentas",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
             "name": "PruebaPersona",
             "request": "launch",
             "mainClass": "Contexto_Estatico.PruebaPersona",

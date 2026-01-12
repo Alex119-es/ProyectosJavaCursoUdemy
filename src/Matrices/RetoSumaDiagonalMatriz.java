@@ -29,7 +29,7 @@ for (int i = 0; i < matrizSumaDiagonal.length; i++) {
         System.out.println(" Muestra de los valores dentro de la matriz :\n ["+i+"] ["+j+"] :"+matrizSumaDiagonal[i][j]);
         if (i==j) {
             sumaDiagonal+=matrizSumaDiagonal[i][j];
-        System.out.println("\nIteracion de la suma numero ["+i+"] de manera diagonal primera salida : "+(sumaDiagonal));
+        System.out.println("\nIteracion de la suma numero ["+i+"] de manera diagonal salida : "+(sumaDiagonal));
         }
 }
 }
