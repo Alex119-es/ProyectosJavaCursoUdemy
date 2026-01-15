@@ -26,7 +26,7 @@ public class Orden {
         else{System.out.println("Se ha superado el maximo de productos: "+Orden.MAX_PRODUCTOS);
             
         }
-        this.productos[this.contadorProductos++] = producto;
+        
     }
 
 }
