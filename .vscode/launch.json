@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArgumentosVariables",
+            "request": "launch",
+            "mainClass": "TEMASAVANZADOS.ArgumentosVariables",
+            "projectName": "ProyectosJavaCursoUdemy_27ade24"
+        },
+        {
+            "type": "java",
             "name": "PruebaVentas",
             "request": "launch",
             "mainClass": "RetoSistemaVentas.ventas.PruebaVentas",
