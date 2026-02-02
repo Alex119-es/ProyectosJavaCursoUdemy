@@ -6,6 +6,12 @@ public static void main(String[] args) {
 
 int [] nombreDelArreglo=new int[]{1,2,3,4,5,6,7,8,9,10};
 var nombreDelArreglo_V2=new int[]{1,2,3,4,5,6,7,8,9,10};
+/*Manera mas rapida y seca aun */
+int edades[]={5,10,30,45};
+for (int i : edades) {
+    System.out.println(i);
+}
+
 
 System.out.println("Valor  1" +nombreDelArreglo[0]);
 System.out.println("Valor  2" +nombreDelArreglo[1]);
