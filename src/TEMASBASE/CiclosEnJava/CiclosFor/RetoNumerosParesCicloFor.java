@@ -1,4 +1,4 @@
-package CiclosEnJava.CiclosFor;
+package TEMASBASE.CiclosEnJava.CiclosFor;
 
 public class RetoNumerosParesCicloFor {
 public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Operadores_Java;
+package TEMASBASE.Operadores_Java;
 public class PrecedenciaOperadores {
     public static void main(String[] args) {
         // Precedencia (orden en el que prioriza de operadores)de Operadores en Java:

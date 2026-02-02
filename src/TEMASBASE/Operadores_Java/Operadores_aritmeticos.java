@@ -1,4 +1,4 @@
-package Operadores_Java;
+package TEMASBASE.Operadores_Java;
 
 public class Operadores_aritmeticos {
 public static void main(String[] args) {

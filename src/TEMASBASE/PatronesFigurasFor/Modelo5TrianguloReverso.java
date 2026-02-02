@@ -1,4 +1,4 @@
-package PatronesFigurasFor;
+package TEMASBASE.PatronesFigurasFor;
 import java.util.*;
 public class Modelo5TrianguloReverso {
 

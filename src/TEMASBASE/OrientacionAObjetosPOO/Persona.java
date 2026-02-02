@@ -1,4 +1,4 @@
-package OrientacionAObjetosPOO;
+package TEMASBASE.OrientacionAObjetosPOO;
 
 public class Persona {
 

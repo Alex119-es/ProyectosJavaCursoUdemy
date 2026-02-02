@@ -1,4 +1,4 @@
-package Ejercicios_iniciales;
+package TEMASBASE.Ejercicios_iniciales;
 
 public class AreaRectanguloConMetodo {
     public static int MetodoRectangulo(int lado1, int lado2) {

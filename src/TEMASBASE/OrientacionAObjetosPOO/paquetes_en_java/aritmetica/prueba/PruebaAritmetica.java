@@ -1,13 +1,21 @@
-package OrientacionAObjetosPOO.paquetes_en_java.aritmetica.prueba;
+package TEMASBASE.OrientacionAObjetosPOO.paquetes_en_java.aritmetica.prueba;
 
-import OrientacionAObjetosPOO.paquetes_en_java.aritmetica.Aritmetica;
+import TEMASBASE.OrientacionAObjetosPOO.paquetes_en_java.aritmetica.Aritmetica;
+/*Aunque Aritmetica sea pública, si está en un paquete diferente (aritmetica) y tu clase está en otro paquete (aritmetica.prueba),
+ necesitas indicar dónde está. */
 
 public class PruebaAritmetica {
 
 
     public static void main(String[] args) {
+
+
+        
  System.out.println("Ejemplo Aritmetica");
         var instanciarClase=new Aritmetica(5,7);/*Al new se considera como el constructor de nuestra clase */
+        
+    /*o tambien puedes referenciar directamente con todo el paquete */
+    // var instanciarClase = new TEMASBASE.OrientacionAObjetosPOO.paquetes_en_java.aritmetica.Aritmetica(5, 7);
         System.out.println("Atributo operando1 por medio de metodo get:"+
             instanciarClase.getOperando1()
         );

@@ -1,4 +1,4 @@
-package CiclosEnJava.MenuIterativoYRetos;
+package TEMASBASE.CiclosEnJava.MenuIterativoYRetos;
 import java.util.*;
 public class RetoAdivinanza {
     static Random aleatorizador = new Random();

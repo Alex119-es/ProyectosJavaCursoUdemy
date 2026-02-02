@@ -1,4 +1,4 @@
-package Ejercicios_iniciales;
+package TEMASBASE.Ejercicios_iniciales;
 
 public class ManejoIndiceDeCadenas {
    public static void main(String [] argumento){

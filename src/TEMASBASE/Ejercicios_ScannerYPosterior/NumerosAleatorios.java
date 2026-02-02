@@ -1,4 +1,4 @@
-package Ejercicios_ScannerYPosterior;
+package TEMASBASE.Ejercicios_ScannerYPosterior;
 
 import java.util.Random;
 

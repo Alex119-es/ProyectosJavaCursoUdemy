@@ -1,4 +1,4 @@
-package PatronesFigurasFor;
+package TEMASBASE.PatronesFigurasFor;
 
 public class Patron4RomboDosTriangulos {
 

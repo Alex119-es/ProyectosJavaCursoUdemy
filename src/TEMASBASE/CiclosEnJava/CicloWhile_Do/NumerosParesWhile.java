@@ -1,4 +1,4 @@
-package CiclosEnJava.CicloWhile_Do;
+package TEMASBASE.CiclosEnJava.CicloWhile_Do;
 
 public class NumerosParesWhile {
     public static void main(String[] args) {

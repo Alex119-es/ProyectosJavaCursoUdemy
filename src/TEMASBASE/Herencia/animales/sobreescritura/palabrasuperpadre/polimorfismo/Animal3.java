@@ -1,4 +1,4 @@
-package Herencia.animales.sobreescritura.palabrasuperpadre.polimorfismo;
+package TEMASBASE.Herencia.animales.sobreescritura.palabrasuperpadre.polimorfismo;
 
 /*Dato curioso de clases publicas pero en diferente paquete para poder usar de esa clase tienes que importarlo con import y despues la ruta del fichero en este momento
 si yo uso en la clase gato la herencia de animal no se puede sino es con un import asi que lo escribirie y lo comentare aqui  */
@@ -7,7 +7,7 @@ si yo uso en la clase gato la herencia de animal no se puede sino es con un impo
 // /*Esta expresion no funciona ya que el * es no recursivo entonces se refiere a todas las clases que hay dentro del directorio Herencia el cual no hay ninguna sin embargo si 
 // añadimos todas las clases del directorio Herencia/animales si funcionaria ya que esta la clase que queremos llevarnosa en este caso Animal*/
 
-import Herencia.animales.*;
+import TEMASBASE.Herencia.animales.*;
 
 // import Herencia.animales.Animal;
 
@@ -66,7 +66,7 @@ var instanciaAnimalSinFuncion2=new Perro();
 var instanciaAnimalSinFuncion3=new Gato();
 /*Tambien puede apuntar a clases hijas como en este caso que Perro es clase hija heredada de Animal */
 imprimirSonido(instanciaAnimalSinFuncion);/*Al metodo imprimir sonido le estamos dando una referencia de tipo animal  */
-imprimirSonido(instanciaAnimalSinFuncion2);/*Al metodo imprimir sonido le estamos dando una referencia de tipo animal  */
+imprimirSonido(instanciaAnimalSinFuncion2);
 imprimirSonido(instanciaAnimalSinFuncion3);
     }   
 }

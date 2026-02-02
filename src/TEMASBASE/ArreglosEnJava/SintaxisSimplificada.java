@@ -1,4 +1,4 @@
-package ArreglosEnJava;
+package TEMASBASE.ArreglosEnJava;
 
 public class SintaxisSimplificada {
 public static void main(String[] args) {

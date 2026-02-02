@@ -1,4 +1,4 @@
-package PatronesFigurasFor.ModelosDisenoFor;
+package TEMASBASE.PatronesFigurasFor.ModelosDisenoFor;
 
 public class Patron4RomboDosTriangulos {
 

@@ -1,4 +1,4 @@
-package Clase_object;
+package TEMASBASE.Clase_object;
 
 public class PersonaSinapsis extends Object {
 /*la clase object es la clase PADRE DE LAS CLASES PADRES XD y contiene metodos como equals()compara si dos objetos son iguales,toString()que manda a imprimir

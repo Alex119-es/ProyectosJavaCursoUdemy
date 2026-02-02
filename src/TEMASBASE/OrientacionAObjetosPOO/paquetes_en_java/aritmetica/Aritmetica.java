@@ -1,4 +1,4 @@
-package OrientacionAObjetosPOO.paquetes_en_java.aritmetica;
+package TEMASBASE.OrientacionAObjetosPOO.paquetes_en_java.aritmetica;
 
 public class Aritmetica {
     /* 

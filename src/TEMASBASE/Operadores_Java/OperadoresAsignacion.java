@@ -1,4 +1,4 @@
-package Operadores_Java;
+package TEMASBASE.Operadores_Java;
 
 public class OperadoresAsignacion {
     public static void main(String[] args) {

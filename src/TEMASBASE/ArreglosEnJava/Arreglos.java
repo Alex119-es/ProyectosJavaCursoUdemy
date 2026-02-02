@@ -1,4 +1,4 @@
-package ArreglosEnJava;
+package TEMASBASE.ArreglosEnJava;
 import java.util.*;
 public class Arreglos {
 static Scanner teclado =new Scanner(System.in);/*Introducimos registro consola para añadir los valores dentro de un arreglo */

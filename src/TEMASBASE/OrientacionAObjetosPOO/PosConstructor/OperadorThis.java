@@ -1,4 +1,4 @@
-package OrientacionAObjetosPOO.PosConstructor;
+package TEMASBASE.OrientacionAObjetosPOO.PosConstructor;
 
 public class OperadorThis {
 // usamos parte del codigo de constructores/aritmetica que son  clases de este paquete 

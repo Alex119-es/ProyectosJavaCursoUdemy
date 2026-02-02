@@ -1,4 +1,4 @@
-package Matrices;
+package TEMASBASE.Matrices;
 
 public class MatrizSinapsisYEjemplo {
 public static void main(String[] args) {

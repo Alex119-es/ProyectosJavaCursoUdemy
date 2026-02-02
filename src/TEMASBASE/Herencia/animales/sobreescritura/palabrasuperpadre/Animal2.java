@@ -1,4 +1,4 @@
-package Herencia.animales.sobreescritura.palabrasuperpadre;
+package TEMASBASE.Herencia.animales.sobreescritura.palabrasuperpadre;
 
 public class Animal2 {
 /*para utilizar este concepto en primer lugar necsitamos una clase conocida como clase padre o superclase utilicemos un ejemplo como la clase Animal2 el cual tendra

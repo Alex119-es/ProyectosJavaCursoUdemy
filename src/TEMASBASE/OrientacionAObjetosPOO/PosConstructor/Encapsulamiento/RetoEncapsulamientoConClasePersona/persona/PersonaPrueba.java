@@ -1,4 +1,4 @@
-package OrientacionAObjetosPOO.PosConstructor.Encapsulamiento.RetoEncapsulamientoConClasePersona.persona;
+package TEMASBASE.OrientacionAObjetosPOO.PosConstructor.Encapsulamiento.RetoEncapsulamientoConClasePersona.persona;
 
 public class PersonaPrueba {
 

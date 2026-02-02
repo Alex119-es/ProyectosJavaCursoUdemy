@@ -1,4 +1,4 @@
-package SentenciasDeDecisionYPosterior.OperadorTernario;
+package TEMASBASE.SentenciasDeDecisionYPosterior.OperadorTernario;
 
 import java.util.Scanner;
 

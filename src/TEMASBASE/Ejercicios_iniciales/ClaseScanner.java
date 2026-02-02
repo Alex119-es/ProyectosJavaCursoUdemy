@@ -1,5 +1,5 @@
 
-package Ejercicios_iniciales;
+package TEMASBASE.Ejercicios_iniciales;
 import java.util.*;
 public class ClaseScanner {
     public static void main(String[]args){

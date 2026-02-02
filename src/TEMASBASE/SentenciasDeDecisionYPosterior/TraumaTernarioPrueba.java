@@ -1,4 +1,4 @@
-package SentenciasDeDecisionYPosterior;
+package TEMASBASE.SentenciasDeDecisionYPosterior;
 
 public class TraumaTernarioPrueba {
     

@@ -1,4 +1,4 @@
-package PatronesFigurasFor.ModelosDisenoFor;
+package TEMASBASE.PatronesFigurasFor.ModelosDisenoFor;
 
 import java.util.Random;
 

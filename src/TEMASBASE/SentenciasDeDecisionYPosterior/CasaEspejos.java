@@ -1,4 +1,4 @@
-package SentenciasDeDecisionYPosterior;
+package TEMASBASE.SentenciasDeDecisionYPosterior;
 
 import java.util.*;
 

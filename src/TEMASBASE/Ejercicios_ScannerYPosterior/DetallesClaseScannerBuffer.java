@@ -1,5 +1,5 @@
 
-package Ejercicios_ScannerYPosterior;
+package TEMASBASE.Ejercicios_ScannerYPosterior;
 import java.nio.channels.Pipe.SourceChannel;
 import java.util.*;
 public class DetallesClaseScannerBuffer {

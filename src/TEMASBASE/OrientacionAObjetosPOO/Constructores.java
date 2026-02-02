@@ -1,4 +1,4 @@
-package OrientacionAObjetosPOO;
+package TEMASBASE.OrientacionAObjetosPOO;
 /* usaremos los valores de la clase de Aritmetica dentro de este paquete */
 public class Constructores {
 

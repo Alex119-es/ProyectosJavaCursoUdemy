@@ -1,4 +1,4 @@
-package PatronesFigurasFor;
+package TEMASBASE.PatronesFigurasFor;
 
 public class Modelo3CeroDeAsterisco {
 public static void main(String[] args) {

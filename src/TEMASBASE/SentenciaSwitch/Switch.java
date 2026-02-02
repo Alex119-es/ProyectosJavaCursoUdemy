@@ -1,4 +1,4 @@
-package SentenciaSwitch;
+package TEMASBASE.SentenciaSwitch;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Operadores_Java;
+package TEMASBASE.Operadores_Java;
 
 public class OperadoresLogico {
 public static void main(String[] args) {

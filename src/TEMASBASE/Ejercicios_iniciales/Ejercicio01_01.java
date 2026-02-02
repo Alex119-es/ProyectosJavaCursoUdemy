@@ -1,4 +1,4 @@
-package Ejercicios_iniciales;
+package TEMASBASE.Ejercicios_iniciales;
 
 public class Ejercicio01_01 {
     public static void main(String [] args){

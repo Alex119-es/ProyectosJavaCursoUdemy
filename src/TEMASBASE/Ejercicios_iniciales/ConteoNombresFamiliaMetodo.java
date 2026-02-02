@@ -1,4 +1,4 @@
-package Ejercicios_iniciales;
+package TEMASBASE.Ejercicios_iniciales;
 
 public class ConteoNombresFamiliaMetodo {
     public static String pintarPersona(String nombre,String apellido1,String apellido2){

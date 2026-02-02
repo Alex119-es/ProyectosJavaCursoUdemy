@@ -1,5 +1,5 @@
 
-package PatronesFigurasFor.ModelosDisenoFor;
+package TEMASBASE.PatronesFigurasFor.ModelosDisenoFor;
 
 public class Patron1SemiPiramideDerecha {
 public static void main(String[] args) {

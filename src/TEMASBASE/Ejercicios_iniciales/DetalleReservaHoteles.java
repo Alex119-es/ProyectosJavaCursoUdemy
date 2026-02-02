@@ -1,4 +1,4 @@
-package Ejercicios_iniciales;
+package TEMASBASE.Ejercicios_iniciales;
 /*trataremos de trabajar con var para asignar los datos 
  * a la vez que pondremos algunas notas:
  * var no se puede dejar como variable nula y se tiene que asignar un valor o definirlo

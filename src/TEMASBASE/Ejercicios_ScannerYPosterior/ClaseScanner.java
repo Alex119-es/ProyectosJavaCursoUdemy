@@ -1,5 +1,5 @@
 
-package Ejercicios_ScannerYPosterior;
+package TEMASBASE.Ejercicios_ScannerYPosterior;
 import java.util.*;
 public class ClaseScanner {
     public static void main(String[]args){

@@ -1,4 +1,4 @@
-package PatronesFigurasFor;
+package TEMASBASE.PatronesFigurasFor;
 
 public class Patron8TrianguloVacioInterno {
     public static void main(String[] args) {

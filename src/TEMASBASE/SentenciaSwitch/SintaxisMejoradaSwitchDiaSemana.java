@@ -1,4 +1,4 @@
-package SentenciaSwitch;
+package TEMASBASE.SentenciaSwitch;
 import java.util.*;;
 public class SintaxisMejoradaSwitchDiaSemana {
 

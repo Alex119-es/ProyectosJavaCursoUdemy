@@ -1,4 +1,4 @@
-package ArreglosEnJava;
+package TEMASBASE.ArreglosEnJava;
 import java.util.*;
 public class ImprimirArreglo {
     static Scanner teclado=new Scanner (System.in);

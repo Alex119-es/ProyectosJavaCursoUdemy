@@ -1,4 +1,4 @@
-package Herencia.animales;
+package TEMASBASE.Herencia.animales;
 
 public class Animal {
 /*para utilizar este concepto en primer lugar necsitamos una clase conocida como clase padre o superclase utilicemos un ejemplo como la clase Animal el cual tendra

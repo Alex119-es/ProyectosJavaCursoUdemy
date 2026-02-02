@@ -1,4 +1,4 @@
-package PatronesFigurasFor.ModelosDisenoFor;
+package TEMASBASE.PatronesFigurasFor.ModelosDisenoFor;
 
 public class Patron9_X_DeAsteriscos {
 public static void main(String[] args) {

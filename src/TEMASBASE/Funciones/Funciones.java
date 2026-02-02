@@ -1,4 +1,4 @@
-package Funciones;
+package TEMASBASE.Funciones;
 /* Las funciones son sub Métodos que sirven para dividir tareas en lo que se refiere a una aplicación grande conocidas 
 también por el hecho de que se les puede llamar como subprogramas o subtareas
 

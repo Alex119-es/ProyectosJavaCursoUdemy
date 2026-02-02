@@ -1,4 +1,4 @@
-package CiclosEnJava.MenuIterativoYRetos;
+package TEMASBASE.CiclosEnJava.MenuIterativoYRetos;
 import java.util.*;
 public class RetoCajeroAutomaticoP2 {
 static Scanner teclado=new Scanner(System.in);

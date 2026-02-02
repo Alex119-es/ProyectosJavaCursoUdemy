@@ -1,4 +1,4 @@
-package SentenciasDeDecisionYPosterior;
+package TEMASBASE.SentenciasDeDecisionYPosterior;
 import java.util.*;
 public class If_else_if_else {
 static  Scanner teclado=new Scanner(System.in);

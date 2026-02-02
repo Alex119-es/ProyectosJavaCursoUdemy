@@ -1,4 +1,4 @@
-package CiclosEnJava.CicloWhile_Do;
+package TEMASBASE.CiclosEnJava.CicloWhile_Do;
 
 /*usar el ciclo while o do while sirve dependiendo si queremos que se ejcuta almenos una vez el codigo do while
  pero si queremos que no se ejecute */

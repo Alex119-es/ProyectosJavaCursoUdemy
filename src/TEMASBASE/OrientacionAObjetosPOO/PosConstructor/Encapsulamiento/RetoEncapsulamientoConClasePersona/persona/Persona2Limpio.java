@@ -1,4 +1,4 @@
-package OrientacionAObjetosPOO.PosConstructor.Encapsulamiento.RetoEncapsulamientoConClasePersona.persona;
+package TEMASBASE.OrientacionAObjetosPOO.PosConstructor.Encapsulamiento.RetoEncapsulamientoConClasePersona.persona;
 public class Persona2Limpio {
 /*CPNVERTIR LOS ATRIBUTOS DE NOMBRE Y APELLIDO EN PRIVADOS */
 private String nombre;

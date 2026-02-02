@@ -1,4 +1,4 @@
-package Contexto_Estatico;
+package TEMASBASE.Contexto_Estatico;
 // Aqui tambien abarcamos el tema "Ejemplo id unico"
 public class PruebaPersona {
 public static void main(String[] args) {

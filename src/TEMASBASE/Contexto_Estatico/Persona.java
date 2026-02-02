@@ -1,4 +1,4 @@
-package Contexto_Estatico;
+package TEMASBASE.Contexto_Estatico;
 /*Volvemos a clonar la estructura de la calse Persona */
 public class Persona {
    private static int contadorPersonasCreadas=0;

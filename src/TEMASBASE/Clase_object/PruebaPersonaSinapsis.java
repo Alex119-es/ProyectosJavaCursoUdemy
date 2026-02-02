@@ -1,4 +1,4 @@
-package Clase_object;
+package TEMASBASE.Clase_object;
 
 public class PruebaPersonaSinapsis {
 public static void main(String[] args) {

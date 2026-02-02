@@ -1,4 +1,4 @@
-package Funciones;
+package TEMASBASE.Funciones;
 
 public class FuncionesRecursivas {
 

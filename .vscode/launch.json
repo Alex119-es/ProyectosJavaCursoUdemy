@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PruebaTraductor",
+            "request": "launch",
+            "mainClass": "TEMASAVANZADOS.Interfaces.PruebaTraductor",
+            "projectName": "ProyectosJavaCursoUdemy"
+        },
+        {
+            "type": "java",
+            "name": "ClasesAbstracta",
+            "request": "launch",
+            "mainClass": "TEMASAVANZADOS.ClasesAbstracta",
+            "projectName": "ProyectosJavaCursoUdemy"
+        },
+        {
+            "type": "java",
+            "name": "PruebaAnimal",
+            "request": "launch",
+            "mainClass": "TEMASBASE.Herencia.animales.sobreescritura.palabrasuperpadre.polimorfismo.PruebaAnimal",
+            "projectName": "ProyectosJavaCursoUdemy"
+        },
+        {
+            "type": "java",
+            "name": "ArgumentosVariables",
+            "request": "launch",
+            "mainClass": "TEMASAVANZADOS.ArgumentosVariables",
+            "projectName": "ProyectosJavaCursoUdemy"
+        },
+        {
+            "type": "java",
+            "name": "Arreglos",
+            "request": "launch",
+            "mainClass": "TEMASBASE.ArreglosEnJava.Arreglos",
+            "projectName": "ProyectosJavaCursoUdemy"
+        },
+        {
+            "type": "java",
             "name": "ForEach",
             "request": "launch",
             "mainClass": "TEMASAVANZADOS.ForEach",

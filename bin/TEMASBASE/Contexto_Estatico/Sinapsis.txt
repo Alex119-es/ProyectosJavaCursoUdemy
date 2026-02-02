@@ -1,0 +1,4 @@
+Creacion de clases=Contexto estatico(cuando se trabaja con clase)
+Creacion de Objetos:Contexto dinamico(cuando trabajamos con objetos)
+El contexto estatico NO puede acceder al contexto dinamico(clases no pueden acceder a varias instancias de referencia a un objeto)
+El contexto dinamico si puede acceder al contexto estatico(instancia puede acceder a varias clases)

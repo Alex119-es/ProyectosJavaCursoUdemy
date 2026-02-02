@@ -1,4 +1,4 @@
-package OrientacionAObjetosPOO.PosConstructor.Encapsulamiento;
+package TEMASBASE.OrientacionAObjetosPOO.PosConstructor.Encapsulamiento;
 
 public class EncapsulamientoSinopsis {
 /*Permite controlar el acceso a los atributos de nuestra clase para evitar acceder a los atributos directamente usaremos el modificador de acceso private y para poder leer o modificar los

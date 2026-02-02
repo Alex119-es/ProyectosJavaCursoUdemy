@@ -1,4 +1,4 @@
-package RetoPosteriorSwitchIfElse;
+package TEMASBASE.RetoPosteriorSwitchIfElse;
 import java.util.*;
 public class SistemaDeCalificaciones {
 

@@ -1,4 +1,4 @@
-package Matrices;
+package TEMASBASE.Matrices;
 import java.util.*;
 public class DeterminarMatrices {
 static Scanner teclado=new Scanner(System.in);

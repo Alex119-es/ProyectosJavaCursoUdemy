@@ -1,4 +1,4 @@
-package RetoSistemaVentas.ventas;
+package TEMASBASE.RetoSistemaVentas.ventas;
 
 public class Orden {
     private final int idOrden;

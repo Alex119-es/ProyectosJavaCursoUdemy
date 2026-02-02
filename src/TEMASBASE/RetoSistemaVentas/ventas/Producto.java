@@ -1,4 +1,4 @@
-package RetoSistemaVentas.ventas;
+package TEMASBASE.RetoSistemaVentas.ventas;
 
 public class Producto {
     private final int idProducto;// como asignamos final no podemos tener set ya que es un valor que no se puede cambiar
