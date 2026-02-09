@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JavaBeans",
+            "request": "launch",
+            "mainClass": "TEMASAVANZADOS.JavaBeans",
+            "projectName": "ProyectosJavaCursoUdemy"
+        },
+        {
+            "type": "java",
             "name": "PruebaTraductor",
             "request": "launch",
             "mainClass": "TEMASAVANZADOS.Interfaces.PruebaTraductor",
