@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PruebaAritmetica",
+            "request": "launch",
+            "mainClass": "TEMASAVANZADOS.excepciones.PruebaAritmetica",
+            "projectName": "ProyectosJavaCursoUdemy"
+        },
+        {
+            "type": "java",
+            "name": "Excepciones",
+            "request": "launch",
+            "mainClass": "TEMASAVANZADOS.Excepciones",
+            "projectName": "ProyectosJavaCursoUdemy"
+        },
+        {
+            "type": "java",
             "name": "JavaBeans",
             "request": "launch",
             "mainClass": "TEMASAVANZADOS.JavaBeans",
